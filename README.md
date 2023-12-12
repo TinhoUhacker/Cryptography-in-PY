@@ -36,7 +36,7 @@ Comments
 • The code contains a section related to using the tkinter module to create a graphical interface, but this part is commented and is not used in the current code.
 
 # Cryptography-in-PY (PT-BR)
-This Python code implements a simple message encryption and decryption program using the cryptography.fernet library. The program allows the user to choose between encrypting a message or decrypting a previously encrypted message. The encryption key is automatically generated and saved together with the encrypted message in a text file.
+Este código Python implementa um programa simples de criptografia e descriptografia de mensagens usando a biblioteca cryptography.fernet. O programa permite ao usuário escolher entre criptografar uma mensagem ou descriptografar uma mensagem previamente criptografada. A chave de criptografia é gerada automaticamente e salva em conjunto com a mensagem criptografada em um arquivo de texto.
 
 Módulos Utilizados
 •	cryptography.fernet: Biblioteca de criptografia utilizada para implementar a criptografia e descriptografia da mensagem.
